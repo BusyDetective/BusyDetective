@@ -40,7 +40,7 @@ GUI-based tool for hiding secret messages inside images using LSB & password pro
 ---
 
 ## 🌐 Connect with Me
-💼 [Fiverr Profile](https://www.fiverr.com/) *(add your profile link once approved)*  
+💼 [Fiverr Profile](https://www.fiverr.com/sellers/kaivan_1)   
 📧 **Email:** kaivanshah1810@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/kaivan-shah-144489312](https://linkedin.com/in/kaivan-shah-144489312)
 
