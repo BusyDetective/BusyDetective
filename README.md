@@ -1,49 +1,91 @@
 # 👋 Hi, I'm Kaivan Shah
 
-🎯 **Cybersecurity Enthusiast & Web Application Penetration Tester**
-
-I’m passionate about ethical hacking, vulnerability research, and secure coding.  
-Currently building and showcasing projects that demonstrate real-world web security concepts.
+🛡️ Offensive Security | Web Application Penetration Testing | OWASP Top 10  
+📍 India | Open to Remote Opportunities  
 
 ---
 
-## 🧑‍💻 Featured Projects
+## 🚀 About Me
 
-🔹 **SQL Injection Playground**  
-A realistic vulnerable web app to demonstrate and detect SQLi attacks.  
-[🔗 View on GitHub](https://github.com/BusyDetective/ElevateLabs_9.git)
+I specialize in identifying and exploiting web application vulnerabilities, focusing on OWASP Top 10 risks such as:
 
-🔹 **Web Application Vulnerability Scanner**  
-Custom Python-based scanner to detect XSS, SQLi, and CSRF vulnerabilities.  
-[🔗 View on GitHub](https://github.com/BusyDetective/ElevateLabs_9.git)
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- CSRF
+- Authentication & Input Validation Flaws
 
-🔹 **Steganography Tool**  
-GUI-based tool for hiding secret messages inside images using LSB & password protection.  
-[🔗 View on GitHub](https://github.com/BusyDetective/steganography-tool.git)
+I build real-world security tools and vulnerable lab environments to simulate attack scenarios and develop practical defensive strategies.
 
 ---
 
-## 🛠️ Skills
-- Penetration Testing (Web Apps)
-- OWASP Top 10 Vulnerability Testing  
-- Python (Requests, Flask, BeautifulSoup)
-- Burp Suite, OWASP ZAP, SQLMap  
-- HTML / CSS / JavaScript
+## 🔥 Featured Projects
+
+### 🔐 SQL Injection Playground with Detection Engine
+A multi-page intentionally vulnerable web application simulating real-world authentication bypass and search-based SQL injection attacks.  
+Includes integrated detection logic and educational exploitation scenarios.
+
+➡ Demonstrates offensive testing + defensive awareness.
 
 ---
 
-## 🎓 Certifications
-- **Internship:** *Elevate Labs (Cybersecurity Intern)*  
-- **Internship:** *Future Interns (Web Security Research)*  
-- **Tools & Labs:** Kali Linux, DVWA, OWASP Juice Shop, Metasploit
+### 🛡️ Web Application Vulnerability Scanner (Python + Flask)
+Custom-built automated scanner detecting SQLi, XSS, and CSRF vulnerabilities.  
+Implements payload injection logic, response analysis, and PDF report generation with severity classification.
+
+➡ Simulates real-world VAPT workflow.
 
 ---
 
-## 🌐 Connect with Me
-💼 [Fiverr Profile](https://www.fiverr.com/sellers/kaivan_1)   
-📧 **Email:** kaivanshah1810@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/kaivan-shah-144489312](https://linkedin.com/in/kaivan-shah-144489312)
+### 🎣 PhishGuard – Phishing Detection Browser Extension
+Browser extension detecting phishing URLs using heuristic analysis and pattern recognition.  
+Provides real-time alerts for suspicious domains.
 
 ---
 
-⭐️ *“Security is not a product, it’s a process.” – Bruce Schneier*
+### 🖼️ Steganography Tool (Python GUI + AES)
+GUI-based image steganography tool implementing LSB encoding with AES password protection for secure message/file embedding.
+
+---
+
+## 🧰 Tools & Technologies
+
+**Security Tools:**  
+Burp Suite | OWASP ZAP | SQLMap | Metasploit | Gophish | SET  
+
+**Programming:**  
+Python | JavaScript | HTML | CSS  
+
+**Frameworks & Libraries:**  
+Flask | BeautifulSoup | fpdf  
+
+**Platforms:**  
+Kali Linux | VMware | Linux  
+
+---
+
+## 📊 What I Focus On
+
+- Manual Web Application Penetration Testing  
+- Automated Vulnerability Scanning  
+- Security Tool Development  
+- Structured Vulnerability Reporting  
+- Offensive Security Lab Simulation  
+
+---
+
+## 🎯 Current Goal
+
+Seeking Remote Junior Penetration Tester / Application Security Analyst roles  
+and collaborating on real-world security research projects.
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/kaivan-shah-144489312  
+💻 GitHub: https://github.com/BusyDetective  
+📧 Email: kaivanshah1810@gmail.com  
+
+---
+
+⭐ *"Security is not a product, it's a process." – Bruce Schneier*
